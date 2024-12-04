@@ -1,0 +1,64 @@
+#countdown {
+  text-align: center;
+}
+
+#timer {
+  display: flex;
+  justify-content: center;
+}
+
+#timer div {
+  margin: 0 10px;
+}
+
+#timer span {
+  display: block;
+  font-size: 24px;
+}
+
+
+body{
+	background-color:#4287f5;
+	color:red;
+}
+#platypus{
+	border:solid;
+	position:absolute;
+	left:100px
+}
+#countdown2 {
+  text-align: center;
+}
+
+#timer2 {
+  display: flex;
+  justify-content: center;
+}
+
+#timer2 div {
+  margin: 0 10px;
+}
+
+#timer2 span {
+  display: block;
+  font-size: 24px;
+}
+
+
+#countdown3 {
+  text-align: center;
+}
+
+#timer3 {
+  display: flex;
+  justify-content: center;
+}
+
+#timer3 div {
+  margin: 0 10px;
+}
+
+#timer3 span {
+  display: block;
+  font-size: 24px;
+}
